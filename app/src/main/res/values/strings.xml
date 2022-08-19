@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WhatsApp Clone</string>
+    <string name="welcome">Welcome to WhatsApp</string>
+    <string name="verify_your_number">Verify Your Number</string>
+    <string name="entercode">Please enter your number.You will get a SMS including a verification code</string>
+    <string name="phone_hint">Enter Phone number</string>
+    <string name="waiting">Waiting to automatically detect an SMS sent to \n %s Wrong number? </string>
+    <string name="edit">------</string>
+    <string name="code">Enter 6 digit code</string>
+    <string name="svc">send verification code</string>
+    <string name="resend_sms">resend sms</string>
+    <string name="scnd">Seconds Remaining %d</string>
+    <string name="verify">Verify %s</string>
+</resources>
